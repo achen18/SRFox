@@ -3,13 +3,13 @@ Simple SR latch controlling two LEDs
 Slack Username: chen26a
 
 ## Schematic
-![Schematic](Screenshots/Schematic_SolderSwitchLite)
+![Schematic](Screenshots/Schematic_SolderSwitchLite.png)
 
 ## PCB
-![PCB](Screenshots/PCB_SolderSwitchLite)
+![PCB](Screenshots/PCB_SolderSwitchLite.png)
 
 ## 3D
-![3D](Screenshots/3D_SolderSwitchLite)
+![3D](Screenshots/3D_SolderSwitchLite.png)
 
 ## Bill of Materials
 - 1 Battery holder
