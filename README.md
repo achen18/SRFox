@@ -10,8 +10,8 @@ Slack Username:
 ## 3D
 
 ## Bill of Materials
-1 Battery Holder
-2 NPN Transistor
-2 Push Button
-2 LED
-4 220 Resistor
+- 1 Battery holder
+- 2 NPN Transistor
+- 2 Push Button
+- 2 LED
+- 4 220 Resistor
