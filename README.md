@@ -1,5 +1,5 @@
 # SRFox
-Simple SR latch controlling two LEDs
+Simple SR latch controlling two LEDs  
 Slack Username: chen26a
 
 ## Schematic
